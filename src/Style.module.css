@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+.inputstyle{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid whitesmoke;
+    font-size: 1px;
+    text-align: center;
+    height: 50px;.
+}
